@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 0;
+    color: white;
+    height: 100%;
+}
+.inputan-email{
+    background-color: blue;
+    border: solid black 4px;
+}
+.card-text,
+.card-title{
+    color: black;
+}
